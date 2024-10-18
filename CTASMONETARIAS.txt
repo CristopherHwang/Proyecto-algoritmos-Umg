@@ -1,4 +1,6 @@
-12;Jorge Ejemplo;54215421;ejemplo@gmail.com;400
+12;Jorge Ejemplo;54215421;ejemplo@gmail.com;410
 13;Ana Perez;58963214;ana.perez@example.com;1200
-14;Luis Rodriguez;74859632;luis.rod@example.com;1399
-15;Maria Lopez;85274196;maria.lopez@example.com;0
+14;Luis Rodriguez;74859632;luis.rod@example.com;1300
+15;Maria Lopez;85274196;maria.lopez@example.com;100
+16;Josue Carias;53306996;Josue@gmail.com;1000
+17;Ricardo;46578396;ricardo@yahoo.com;900
